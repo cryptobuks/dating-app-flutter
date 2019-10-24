@@ -1,0 +1,47 @@
+name: date_it
+description: This is the demo for chat app by Flutter
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  firebase_auth: 0.11.1+11
+  google_sign_in: 4.0.4
+  cloud_firestore: ^0.12.9+4
+  firebase_database: 3.0.0
+  fluttertoast: ^3.1.0
+  image_picker: 0.6.0+17
+  shared_preferences: 0.5.3+4
+  firebase_storage: 3.0.3
+  cached_network_image: ^1.1.0
+  intl: ^0.15.7
+  firebase_messaging: 5.1.2
+  flutter_local_notifications: ^0.8.0
+  photo_view: ^0.4.2
+  agora_rtc_engine: 0.9.7
+  permission_handler: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+     - images/img_not_available.jpeg
+     - images/mimi1.gif
+     - images/mimi2.gif
+     - images/mimi3.gif
+     - images/mimi4.gif
+     - images/mimi5.gif
+     - images/mimi6.gif
+     - images/mimi7.gif
+     - images/mimi8.gif
+     - images/mimi9.gif
+     - images/couple.jpg
+     - images/img.jpg
+     - images/cop.jpg
+     - images/love.jpg
+
